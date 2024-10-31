@@ -4,7 +4,7 @@ This project is an interactive map that visualizes buildings in Tallinn, color-c
 
 This project utilizes an ArcGIS Online WebMap, which serves as a central component for managing map layers and their associated data. The layers are accessed programmatically by their titles. The building layer includes only the buildings with the indicated year of construction (27,508 in total).
 
-Live demo: 
+Live demo: https://nikolaymoshenskiy.github.io/tallinn-map-arcgis-sdk/
 
 ## Features
 
