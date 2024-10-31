@@ -9,7 +9,7 @@ Live demo: https://nikolaymoshenskiy.github.io/tallinn-map-arcgis-sdk/
 ## Features
 
 ### 1. **Time Slider**
-  - The time slider enables users to filter buildings on the map according to their construction years. The time range can be adjusted by moving the slider thumbs, which are also accessible via keyboard for precise adjustments using the arrow keys. Click on a thumb to activate it for keyboard use.
+  - The time slider enables filtering buildings on the map according to their construction years. The time range can be adjusted by moving the slider thumbs, which are also accessible via keyboard for precise adjustments using the arrow keys. Click on a thumb to activate it for keyboard use.
 
   - The Reset Filters button removes all filters, returning the map to display all buildings across the entire time frame. This button also resets the time slider to its full extent, spanning the years 1230 to 2024, and clears any filters set by bookmarks.
 
@@ -35,7 +35,7 @@ Live demo: https://nikolaymoshenskiy.github.io/tallinn-map-arcgis-sdk/
 
 
 ### 4. **Search by Address**
-  - The Search by Address bar allows finding specific buildings by entering their address. It searches for the entered address within the buildings layer. However, since not all buildings are represented on the map, some specific addresses might be missing from the results.
+  - The Search by Address bar allows finding and pinpointing specific buildings by entering their address. It searches for the entered address within the buildings layer. However, since not all buildings are represented on the map, some specific addresses might be missing from the results.
 
 ![Alt text](./images/search.png)
 
